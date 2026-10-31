@@ -1,0 +1,6 @@
+PatientID,Name,Age,Gender,TestType,ResultValue,Status
+P101,Aarav,45,M,Hemoglobin,11.2,Low
+P103,Rohan,58,M,Cholesterol,240.0,High
+P105,Vikram,61,M,Glucose,150.0,High
+P106,Neha,41,F,Hemoglobin,10.5,Low
+P101,Aarav,45,M,Cholesterol,210.0,High
