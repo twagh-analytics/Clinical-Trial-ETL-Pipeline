@@ -1,0 +1,8 @@
+TestID,PatientID,TestType,ResultValue,Status
+T01,P101,Hemoglobin,11.2,Low
+T02,P102,Hemoglobin,14.5,Normal
+T03,P103,Cholesterol,240,High
+T04,P104,Glucose,95,Normal
+T05,P105,Glucose,150,High
+T06,P106,Hemoglobin,10.5,Low
+T07,P101,Cholesterol,210,High
